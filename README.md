@@ -3,7 +3,7 @@ Kryssplattform eksamen 2025
 
 # DugnadHub — Kryssplattform app (TDS200 H2025)
 
-En React Native / Expo-app for å organisere og delta på dugnader i nærmiljøet.
+En React Native / Expo-app for å organisere, delta og oppdage dugnader i nærmiljøet.
 
 ## Demo av appen
 
